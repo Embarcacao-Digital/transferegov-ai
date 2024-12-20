@@ -60,7 +60,7 @@ const Header = (props: {
             <Image
               width={32}
               height={32}
-              src={"/images/logo/logo-icon.svg"}
+              src={"/images/logo/logo-transferegov-br-horizontal-hd.png"}
               alt="Logo"
             />
           </Link>
@@ -71,7 +71,6 @@ const Header = (props: {
             <h1 className="mb-0.5 text-heading-5 font-bold text-dark dark:text-white">
               Dashboard
             </h1>
-            <p className="font-medium">Next.js Admin Dashboard Solution</p>
           </div>
         </div>
 
