@@ -96,7 +96,7 @@ const menuGroups = [
             />
           </svg>
         ),
-        label: "Calendar",
+        label: "Agenda",
         route: "/calendar",
       },
       {
@@ -119,10 +119,10 @@ const menuGroups = [
             />
           </svg>
         ),
-        label: "Authentication",
+        label: "Autenticação",
         route: "#",
         children: [
-          { label: "Sign In", route: "/auth/signin" },
+          { label: "Entrar", route: "/auth/signin" },
         ],
       },
     ],
