@@ -29,14 +29,14 @@ const SignIn: React.FC = () => {
               <Link className="mb-10 inline-block" href="/">
                 <Image
                   className="hidden dark:block"
-                  src={"/images/logo/logo.svg"}
+                  src={"/images/logo/logo-transferegov-br-horizontal-hd.png"}
                   alt="Logo"
                   width={176}
                   height={32}
                 />
                 <Image
                   className="dark:hidden"
-                  src={"/images/logo/logo-dark.svg"}
+                  src={"/images/logo/logo-transferegov-br-horizontal-hd.png"}
                   alt="Logo"
                   width={176}
                   height={32}
@@ -57,7 +57,7 @@ const SignIn: React.FC = () => {
 
               <div className="mt-31">
                 <Image
-                  src={"/images/grids/grid-02.svg"}
+                  src={"/images/logo/logo-transferegov-br-horizontal-hd.png"}
                   alt="Logo"
                   width={405}
                   height={325}
