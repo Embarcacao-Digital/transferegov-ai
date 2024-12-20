@@ -19,7 +19,14 @@ const config: Config = {
       ...defaultTheme.screens,
     },
     extend: {
+      maxHeight: {
+        '128': '32rem'
+      },
+      height: {
+        '128': '32rem'
+      },
       colors: {
+        customPurple: "#5750f1",
         current: "currentColor",
         transparent: "transparent",
         white: "#FFFFFF",
